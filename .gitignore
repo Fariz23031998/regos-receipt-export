@@ -1,0 +1,8 @@
+*.FDB
+*.fdb
+*.xlsx
+*.pdf
+__pycache__/
+*.py[cod]
+.venv/
+venv/
